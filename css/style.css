@@ -7,8 +7,14 @@ html {
 	height:100%;
 }
 body {
-	background: #333;
-	color: #fff;
+
+	margin:auto;	
+
+}
+
+.wrapper {
+	background:#333;
+	color:#fff;
 	font-weight: 400;
 	font-size: 100%;
 	font-family: 'Raleway', Arial, sans-serif;
@@ -18,7 +24,6 @@ body {
 	min-height:50em;
 	margin:auto;
 	
-
 }
 
 .main {
